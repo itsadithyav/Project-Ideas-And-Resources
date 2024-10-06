@@ -52,8 +52,8 @@ required to complete them.
 
 ### Tier-2: Intermediate Projects
 
-| Name                                                                              | Short Description                                  | Tier           |
-| --------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- |
+| Name                                                                              | Short Description                                  | Tier                |
+| --------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------- |
 | [Airbnb Clone Application](https://www.youtube.com/watch?v=IQaCL8_bwA4&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=7) | A React App for Airbnb Home page Clone                  | 2-Intermediate |
 | [TMDB Movie App](https://www.youtube.com/watch?v=ufodJVcpmps) |  An interactive Movie Database app using ReactJS.                | 2-Intermediate |
 | [Github Jobs App](https://www.youtube.com/watch?v=fxY1q4SCB64&list=LL&index=2) |  A GitHub Jobs App using React Hooks and Github API                | 2-Intermediate |
